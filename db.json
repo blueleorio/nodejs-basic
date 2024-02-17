@@ -1,0 +1,17 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "name": "Dean Rosenbaum",
+      "email": "Kellen_Mohr80@hotmail.com",
+      "phone": "(729) 467-4536 x707",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/521.jpg"
+    },
+    {
+      "name": "Kelli Marvin",
+      "email": "Dwight.Botsford@hotmail.com",
+      "phone": "376-958-0860 x2077",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/894.jpg"
+    }
+  ]
+}
